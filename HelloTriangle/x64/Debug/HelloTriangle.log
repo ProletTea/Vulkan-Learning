@@ -1,0 +1,4 @@
+﻿  HelloTriangle.cpp
+D:\ComputerGraphics\Vulkan\HelloTriangle\HelloTriangle\HelloTriangle.cpp(586,48): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  HelloTriangle.vcxproj -> D:\ComputerGraphics\Vulkan\HelloTriangle\x64\Debug\HelloTriangle.exe
